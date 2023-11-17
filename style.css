@@ -173,6 +173,10 @@ i{
     .task{
         font-size: 13px;
     }
+
+    h1{
+        color: black;
+    }
 }
 
 @media screen and (max-width:360px){
